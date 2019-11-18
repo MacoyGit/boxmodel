@@ -1,0 +1,25 @@
+header {
+	width:1080px;
+ 	border:2px solid black;
+ 	margin: 50px;
+ 	padding: 40px;
+   	text-align: center;
+
+}
+
+p {
+	width:1080px;
+ 	border:2px solid black;
+ 	margin: 50px;
+ 	padding: 40px;
+   	text-align: center;
+}
+
+footer {
+	width:1080px;
+ 	border:2px solid black;
+ 	margin: 50px;
+ 	padding: 40px;
+   	text-align: center;
+
+}
